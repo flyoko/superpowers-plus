@@ -10,7 +10,7 @@ Enable Superpowers Plus skills in Codex via native skill discovery. Just clone a
 
 1. **Clone the superpowers-plus repository:**
    ```bash
-   git clone https://github.com/xhyqaq/superpowers-plus.git ~/.codex/superpowers-plus
+   git clone https://github.com/Xiaoyu-gg/superpowers-plus-v6-upgrade.git ~/.codex/superpowers-plus
    ```
 
 2. **Create the skills symlink:**
