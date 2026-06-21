@@ -1,14 +1,14 @@
 {
-  "name": "superpowers",
-  "displayName": "Superpowers",
-  "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
+  "name": "superpowers-plus",
+  "displayName": "Superpowers Plus",
+  "description": "Superpowers Plus core skills library: planning, execution routing, TDD, debugging, and collaboration workflows",
   "version": "6.0.3",
   "author": {
     "name": "Jesse Vincent",
     "email": "jesse@fsck.com"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/flyoko/superpowers-plus",
+  "repository": "https://github.com/flyoko/superpowers-plus",
   "license": "MIT",
   "keywords": [
     "skills",
